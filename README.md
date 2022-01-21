@@ -7,4 +7,4 @@
 
 # Connect with me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vlad-ilie-8447a81ba/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/vlad-ilie-8447a81ba/)
