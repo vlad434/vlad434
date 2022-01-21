@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   Hi 👋, I'm Ilie Vlad
 
   - 🔭 I’m interested in Web Development
@@ -6,7 +6,7 @@
   - 💬 Ask me about HTML5, CSS3, Javascript
   - 📫 How to reach me vladilie06@yahoo.com
 </p>
-  # Connect with me:
 
+  # Connect with me:
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/vlad-ilie-8447a81ba/)
 
