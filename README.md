@@ -1,11 +1,11 @@
 <h2 align="center"> 
   Hi 👋, I'm Ilie Vlad 
 </h2>
-<p align="center" style="display: flex; flex-direction: column"> 
+<p align="center" style="display: flex; flex-direction: column;"> 
   - 🔭 I’m interested in Web Development
   - 🌱 I’m currently learning React JS  
   - 💬 Ask me about HTML5, CSS3, Javascript
-  - 📫 How to reach me vladilie06@yahoo.com
+  - 📫 How to reach me [vladilie06@yahoo.com]
   
 </p>
 
