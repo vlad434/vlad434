@@ -1,7 +1,5 @@
-<h2 align="center"> 
-  Hi 👋, I'm Ilie Vlad 
-</h2>
-<p align="center" style="display: flex; flex-direction: column;"> 
+# Hi 👋, I'm Ilie Vlad
+<p align="center"> 
   - 🔭 I’m interested in Web Development
   - 🌱 I’m currently learning React JS  
   - 💬 Ask me about HTML5, CSS3, Javascript
@@ -9,6 +7,6 @@
   
 </p>
 
-  # Connect with me:
+ # Connect with me:
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/vlad-ilie-8447a81ba/)
 
